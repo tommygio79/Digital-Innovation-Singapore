@@ -38,4 +38,4 @@ This project exemplified my ability to lead with empathy, collaborate across cul
 
 ---
 
-_Made with ❤️ by [Tommaso Gioacchini](https://www.tommasogioacchini.com) – Digital Health Strategy & Commercial Expert_
+_Made with ❤️ by [Tommaso Gioacchini] – Digital Health Strategy & Commercial Expert_
